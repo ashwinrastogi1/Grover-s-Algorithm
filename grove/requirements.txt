@@ -1,0 +1,26 @@
+numpy
+scipy
+pyquil >= 2.0.0
+mock
+networkx
+matplotlib
+funcsigs
+six
+
+# demos
+jupyter
+jupyter_contrib_nbextensions
+
+# test dependencies
+tox
+pytest >= 3.0.0
+pytest-cov
+codeclimate-test-reporter
+
+# docs
+sphinx
+sphinx_rtd_theme
+
+# tomography
+# You may have to install numpy separately first before installing cvxpy and cython before qutip
+tqdm
